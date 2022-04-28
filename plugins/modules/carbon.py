@@ -5,10 +5,10 @@ from plugins.function import make_carbon
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 aiohttpsession = ClientSession()
 
-C = "**𝙼𝙰𝙳𝙴 𝙱𝚈 [𝙰𝙹𝙰𝚇](https://t.me/Devil0Bot_Bot)**"
+C = "**ᴍᴀᴅᴇ ʙʏ [會؄𝚂𝚄𝚁𝙰𝙹؄會](https://t.me/KingOf_univers)**"
 F = InlineKeyboardMarkup(
 [[
-     InlineKeyboardButton("𝚄𝙿𝙳𝙰𝚃𝙴𝚉 𝙲𝙷𝙰𝙽𝙽𝙴𝙻", url="https://t.me/OpusTechz")
+     InlineKeyboardButton("💫 ᴜᴘᴅᴀᴛᴇs", url="https://t.me/Movies4youBackup")
 ]]
 )
 
@@ -19,16 +19,16 @@ F = InlineKeyboardMarkup(
 async def carbon_func(_, message):
     if not message.reply_to_message:
         return await message.reply_text(
-            "**𝚁𝙴𝙿𝙻𝚈 𝚃𝙾 𝙰𝙽𝚈 𝚃𝙴𝚇𝚃 𝙼𝙴𝚂𝚂𝙰𝙶𝙴 𝚃𝙾 𝙼𝙰𝙺𝙴 𝙲𝙰𝚁𝙱𝙾𝙽.**"
+            "**ʀᴇᴘʟʏ ᴛᴏ ᴀɴʏ ᴛᴇxᴛ ᴛᴏ ᴍᴀᴋᴇ ᴄᴀʀʙᴏɴ.**"
         )
     if not message.reply_to_message.text:
         return await message.reply_text(
-            "**𝚁𝙴𝙿𝙻𝚈 𝚃𝙾 𝙰𝙽𝚈 𝚃𝙴𝚇𝚃 𝙼𝙴𝚂𝚂𝙰𝙶𝙴 𝚃𝙾 𝙼𝙰𝙺𝙴 𝙲𝙰𝚁𝙱𝙾𝙽.**"
+            "**ʀᴇᴘʟʏ ᴛᴏ ᴀɴʏ ᴛᴇxᴛ ᴛᴏ ᴍᴀᴋᴇ ᴄᴀʀʙᴏɴ.**"
         )
     user_id = message.from_user.id
-    m = await message.reply_text("**𝙲𝚁𝙴𝙰𝚃𝙸𝙽𝙶 𝙲𝙰𝚁𝙱𝙾𝙽...**")
+    m = await message.reply_text("**ᴜᴘʟᴏᴀᴅɪɴɢ ᴄᴀʀʙᴏɴ...**")
     carbon = await make_carbon(message.reply_to_message.text)
-    await m.edit("**𝚄𝙿𝙻𝙾𝙰𝙳𝙸𝙽𝙶 𝙲𝙰𝚁𝙱𝙾𝙽...**")
+    await m.edit("**ᴜᴘʟᴏᴀᴅɪɴɢ ᴄᴀʀʙᴏɴ...**")
     await message.reply_photo(
         photo=carbon,
         caption=C,
