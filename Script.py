@@ -11,105 +11,102 @@ Mʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>{}</a>, I Cᴀɴ Pʀᴏᴠɪᴅᴇ M�
 ❍ Bᴏᴛ Sᴇʀᴠᴇʀ: Hᴇʀᴏᴋᴜ
 ❍ Bᴜɪʟᴅ Sᴛᴀᴛᴜs: v1.0.1 [ Bᴇᴛᴀ ]</b>"""
 
-    PRIVATEBOT_TXT = """<b>Pʀɪᴠᴀᴛᴇ Bᴏᴛ Fᴏʀ Yᴏᴜ</b>
-<b>›› Dᴏ Yᴏᴜ Wᴀɴᴛ A Bᴏᴛ Sᴀᴍᴇ Lɪᴋᴇ Tʜɪs</b>
-<b>›› Wɪᴛʜ Aʟʟ Yᴏᴜʀ Cʀᴇᴅɪᴛs</b>
-<b>›› Wɪᴛʜ Yᴏᴜʀ Oᴡɴᴇʀsʜɪᴘ</b>
-<b>›› Cᴏɴᴛᴀᴄᴛ Mᴇ <a href=https://t.me/KingOf_univers>會؄𝚂𝚄𝚁𝙰𝙹؄會</a></b>"""
+    PRIVATEBOT_TXT = """<b>✿ Pʀɪᴠᴀᴛᴇ Bᴏᴛ Fᴏʀ Yᴏᴜ</b>
+<b>☞ Dᴏ Yᴏᴜ Wᴀɴᴛ A Bᴏᴛ Sᴀᴍᴇ Lɪᴋᴇ Tʜɪs</b>
+<b>☞ Wɪᴛʜ Aʟʟ Yᴏᴜʀ Cʀᴇᴅɪᴛs</b>
+<b>☞ Wɪᴛʜ Yᴏᴜʀ Oᴡɴᴇʀsʜɪᴘ</b>
+<b>☞ Cᴏɴᴛᴀᴄᴛ Mᴇ <a href=https://t.me/KingOf_univers>會؄𝚂𝚄𝚁𝙰𝙹؄會</a></b>"""
 
-    SOURCE_TXT = """<b>Nᴏᴛᴇ</b>
+    SOURCE_TXT = """<b>✿ Nᴏᴛᴇ</b>
 
 ⪼ <b>𝐘𝐨𝐮 𝐂𝐚𝐧 𝐃𝐨𝐧𝐚𝐭𝐞 𝐀𝐧𝐲 𝐀𝐦𝐨𝐮𝐧𝐭 𝐘𝐨𝐮 𝐇𝐚𝐯𝐞 💳. 
 
-<b>━━━━━━━━━᚜ Payment Methods ᚛━━━━━━━━━
+<b>━━━━━━━━━᚜ Sᴏᴜʀᴄᴇ ᚛━━━━━━━━━
 
-✮ 𝗚𝗼𝗼𝗴𝗹𝗲𝗣𝗮𝘆
-✮ 𝗣𝗮𝘆𝘁𝗺
-✮ 𝗣𝗵𝗼𝗻𝗲𝗣𝗲
-✮ 𝗣𝗮𝘆𝗣𝗮𝗹
+<b>☞ Aᴀʀᴢᴏᴏ Is A Cʟᴏsᴇ Sᴏᴜʀᴄᴇ Pʀᴏɪᴇᴄᴛ</b>
+<b>☞ Dᴇᴠs</b>
+<b>☞<a href=https://t.me/Movies4youBackup>Mᴏᴠɪᴇs𝟺ʏᴏᴜBᴀᴄᴋᴜᴘ 💕</a></b>
+_Cᴏɴᴛᴀᴄᴛ Mᴇ Fᴏʀ Aʙᴏᴛ Sᴏᴜʀᴄᴇ_
+━━━━━━━━━━━━᚜ <a href=https://t.me/KingOf_univers><b>會؄𝚂𝚄𝚁𝙰𝙹؄會</b></a> ᚛━━━━━━━━━━━━"""
+    MANUELFILTER_TXT = """<b>✿ Hᴇʟᴘ</b>: <b>Fɪʟᴛᴇʀs</b>  
 
-_𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞 𝐅𝐨𝐫 𝐊𝐧𝐨𝐰 𝐀𝐛𝐨𝐮𝐭 𝐓𝐡𝐞 𝐏𝐚𝐲𝐦𝐞𝐧𝐭 𝐈𝐧𝐟𝐨_
-━━━━━━━━━━━━᚜ <a href=https://t.me/Aadhi011><b>ꪖꪖᦔꫝỉ</b></a> ᚛━━━━━━━━━━━━"""
-    MANUELFILTER_TXT = """Help: <b>Filters</b>  
+<b>☞Fɪʟᴛᴇʀ Ts Tʜᴇ Fᴇᴀᴛᴜʀᴇ Wᴇʀᴇ Usᴇʀs Cᴀɴ Sᴇᴛ Aᴜᴛᴏᴍᴀᴛᴇᴅ Rᴇᴘʟɪᴇs Fᴏʀ A Pᴀʀᴛɪᴄᴜʟᴀʀ Kᴇʏᴡᴏʀᴅ Aɴᴅ Aᴀʀᴢᴏᴏ Wɪʟʟ Rᴇsᴘᴏɴᴅ Wʜᴇɴᴇᴠᴇʀ A Kᴇʏᴡᴏʀᴅ Is Fᴏᴜɴᴅ Tʜᴇ Mᴇssᴀɢᴇ</b>
 
-- Filter is the feature were users can set automated replies for a particular keyword and ᗩᒍᗩ᙭ will respond whenever a keyword is found the message
+<b>✿ Nᴏᴛᴇ:</b>
+<b>☞ Aᴀʀᴢᴏᴏ Sʜᴏᴜʟᴅ Hᴀᴠᴇ Aᴅᴍɪɴ Pʀɪᴠɪʟʟᴀɢᴇ.</b>.
+<b>☞ Oɴʟʏ Aᴅᴍɪɴs Cᴀɴ Aᴅᴅ Fɪʟᴛᴇʀs Iɴ A Cʜᴀᴛ.</b>
+<b>☞ Aʟᴇʀᴛ Bᴜᴛᴛᴏɴs Hᴀᴠᴇ A Lɪᴍɪᴛ Oғ 𝟼𝟺 Cʜᴀʀᴀᴄᴛᴇʀs.</b>
 
-<b>NOTE:</b>
-1. ᗩᒍᗩ᙭ should have admin privillage.
-2. only admins can add filters in a chat.
-3. alert buttons have a limit of 64 characters.
+<b>✿ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:</b>
+☞ /filter - <code>ᴀᴅᴅ ᴀ ꜰɪʟᴛᴇʀ ɪɴ ᴄʜᴀᴛ</code>
+☞ /filters - <code>ʟɪsᴛ ᴀʟʟ ᴛʜᴇ ꜰɪʟᴛᴇʀs ᴏꜰ ᴀ ᴄʜᴀᴛ</code>
+☞ /del - <code>ᴅᴇʟᴇᴛᴇ ᴀ sᴘᴇᴄɪꜰɪᴄ ꜰɪʟᴛᴇʀ ɪɴ ᴄʜᴀᴛ</code>
+☞ /delall - <code>ᴅᴇʟᴇᴛᴇ ᴛʜᴇ ᴡʜᴏʟᴇ ꜰɪʟᴛᴇʀs ɪɴ ᴀ ᴄʜᴀᴛ (ᴄʜᴀᴛ ᴏᴡɴᴇʀ ᴏɴʟʏ)</code>"""
+    BUTTON_TXT = """✿ Hᴇʟᴘ: <b>Bᴜᴛᴛᴏɴs</b>
 
-<b>Commands and Usage:</b>
-➾ /filter - <code>add a filter in chat</code>
-➾ /filters - <code>list all the filters of a chat</code>
-➾ /del - <code>delete a specific filter in chat</code>
-➾ /delall - <code>delete the whole filters in a chat (chat owner only)</code>"""
-    BUTTON_TXT = """Help: <b>Buttons</b>
+<b>☞ Aᴀʀᴢᴏᴏ Sᴜᴘᴘᴏʀᴛs Bᴏᴛʜ Uʀʟ Aɴᴅ Aʟᴇʀᴛ Iɴʟɪɴᴇ Bᴜᴛᴛᴏɴs.</b>
 
-- ᗩᒍᗩ᙭ Supports both url and alert inline buttons.
+<b>✿ Nᴏᴛᴇ:</b>
+<b>☞ Tᴇʟᴇɢʀᴀᴍ Wɪʟʟ Nᴏᴛ Aʟʟʟᴏᴡs Yᴏᴜ Tᴏ Sᴇɴᴅ Bᴜᴛᴛᴏɴs Wɪᴛʜᴏᴜᴛ Aɴʏ Cᴏɴᴛᴇɴᴛ, Sᴏ Vᴏɴᴛᴇɴᴛ Is Mᴀɴᴅᴀᴛᴏʀʏ.</b>
+<b>☞ Aᴀʀᴢᴏᴏ Sᴜᴘᴘᴏʀᴛs Bᴜᴛᴛᴏɴs Wɪᴛʜ Aɴʏ Tᴇʟᴇɢʀᴀᴍ Mᴇᴅɪᴀ Tʏᴘᴇ.</b>
+<b>☞ Sᴜᴘᴘᴏʀᴛs Uᴜᴛᴛᴏɴs Wɪᴛʜ Aɴʏ Tᴇʟᴇɢʀᴀᴍ Mᴇᴅɪᴀ Tʏᴘᴇ.</b>
 
-<b>NOTE:</b>
-1. Telegram will not allows you to send buttons without any content, so content is mandatory.
-2. ᗩᒍᗩ᙭ supports buttons with any telegram media type.
-3. Buttons should be properly parsed as markdown format
+<b>✿ Uʀʟ Bᴜᴛᴛᴏɴs:</b>
+<code>[Button Text](buttonurl:https://t.me/Movies4youBackup)</code>
 
-<b>URL buttons:</b>
-<code>[Button Text](buttonurl:https://t.me/source00Devil)</code>
-
-<b>Alert buttons:</b>
+<b>✿ Aʟᴇʀᴛ Bᴜᴛᴛᴏɴs:</b>
 <code>[Button Text](buttonalert:This is an alert message)</code>"""
-    AUTOFILTER_TXT = """Help: <b>Auto Filter</b>
+    AUTOFILTER_TXT = """✿ Hᴇʟᴘ: <b>Aᴜᴛᴏ Fɪʟᴛᴇʀ</b>
 
-<b>NOTE:</b>
-1. Make me the admin of your channel if it's private.
-2. make sure that your channel does not contains camrips, porn and fake files.
-3. Forward the last message to me with quotes.
- I'll add all the files in that channel to my db."""
-    CONNECTION_TXT = """Help: <b>Connections</b>
+<b>✿ Nᴏᴛᴇ:</b>
+<b>☞ Mᴀᴋᴇ Mᴇ Tʜᴇ Aᴅᴍɪɴ Oғ Yᴏᴜʀ Cʜᴀɴɴᴇʟ Iғ Iᴛ's Pʀɪᴠᴀᴛᴇ.</b>
+<b>☞ Mᴀᴋᴇ Sᴜʀᴇ Tʜᴀᴛ Yᴏᴜʀ Cʜᴀɴɴᴇʟ Dᴏᴇs Nᴏᴛ Cᴏɴᴛᴀɪɴs Cᴀᴍʀɪᴘs, Pᴏʀɴ Aɴᴅ Fᴀᴋᴇ Fɪʟᴇs.</b>
+<b>☞ Fᴏʀᴡᴀʀᴅ Tʜᴇ Lᴀsᴛ Nᴇssᴀɢᴇ Tᴏ Mᴇ Wɪᴛʜ Qᴜᴏᴛᴇs.</b>
+ <b>I'ʟʟ Aᴅᴅ Aʟʟ Tʜᴇ Fɪʟᴇs Iɴ Tʜᴀᴛ Cʜᴀɴɴᴇʟ Tᴏ Mʏ Dʙ.</b>"""
+    CONNECTION_TXT = """✿ Hᴇʟᴘ: <b>Cᴏɴɴᴇᴄᴛɪᴏɴs</b>
 
-- Used to connect bot to PM for managing filters 
-- it helps to avoid spamming in groups.
+<b>☞ Usᴇᴅ Tᴏ Cᴏɴɴᴇᴄᴛ Bᴏᴛ Tᴏ Pᴍ Fᴏʀ Mᴀɴᴀɢɪɴɢ Fɪʟᴛᴇʀs.</b> 
+<b>☞ ɪᴛ Hᴇʟᴘs Tᴏ Aᴠᴏɪᴅ Sᴘᴀᴍᴍɪɴɢ Iɴ Gʀᴏᴜᴘs.</b>
 
-<b>NOTE:</b>
-1. Only admins can add a connection.
-2. Send <code>/connect</code> for connecting me to ur PM
+<b>✿ Nᴏᴛᴇ:</b>
+<b>☞ Oɴʟʏ Aᴅᴍɪɴs Cᴀɴ Aᴅᴅ A Cᴏɴɴᴇᴄᴛɪᴏɴ.</b>
+<b>☞ Sᴇɴᴅ</b> <code>/connect</code> <b>Fᴏʀ Cᴏɴɴᴇᴄᴛɪɴɢ Mᴇ Tᴏ Uʀ Pᴍ</b>
 
-<b>Commands and Usage:</b>
-➾ /connect  - <code>connect a particular chat to your PM</code>
-➾ /disconnect  - <code>disconnect from a chat</code>
-➾ /connections - <code>list all your connections</code>"""
-    EXTRAMOD_TXT = """Help: <b>Extra Modules</b>
+<b>✿ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:</b>
+☞ /connect  - <code>ᴄᴏɴɴᴇᴄᴛ ᴀ ᴘᴀʀᴛɪᴄᴜʟᴀʀ ᴄʜᴀᴛ ᴛᴏ ʏᴏᴜʀ ᴘᴍ</code>
+☞ /disconnect  - <code>ᴅɪsᴄᴏɴɴᴇᴄᴛ ꜰʀᴏᴍ ᴀ ᴄʜᴀᴛ</code>
+☞ /connections - <code>ʟɪsᴛ ᴀʟʟ ʏᴏᴜʀ ᴄᴏɴɴᴇᴄᴛɪᴏɴs</code>"""
+    EXTRAMOD_TXT = """✿ Hᴇʟᴘ: <b>Exᴛʀᴀ Mᴏᴅᴜʟᴇs</b>
 
-<b>NOTE:</b>
-These are the extra features of ᗩᒍᗩ᙭
+<b>✿ Nᴏᴛᴇ:</b>
+<b>☞ Tʜᴇsᴇ Aʀᴇ Tʜᴇ Exᴛʀᴀ Fᴇᴀᴛᴜʀᴇs Oғ Aᴀʀᴢᴏᴏ</b>
 
-<b>Commands and Usage:</b>
-➾ /id - <code>get id of a specifed user.</code>
-➾ /info  - <code>get information about a user.</code>
-➾ /imdb  - <code>get the film information from IMDb source.</code>
-➾ /search  - <code>get the film information from various sources.</code>"""
-    ADMIN_TXT = """Help: <b>Admin mods</b>
+<b>✿ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:</b>
+☞ /id - <code>ɢᴇᴛ ɪᴅ ᴏꜰ ᴀ sᴘᴇᴄɪꜰɪᴇᴅ ᴜsᴇʀ.</code>
+☞ /info  - <code>ɢᴇᴛ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ᴀ ᴜsᴇʀ.</code>
+☞ /imdb  - <code>ɢᴇᴛ ᴛʜᴇ ꜰɪʟᴍ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ ꜰʀᴏᴍ ɪᴍᴅʙ sᴏᴜʀᴄᴇ.</code>
+☞ /search  - <code>ɢᴇᴛ ᴛʜᴇ ꜰɪʟᴍ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ ꜰʀᴏᴍ ᴠᴀʀɪᴏᴜs sᴏᴜʀᴄᴇs.</code>"""
+    ADMIN_TXT = """✿ Hᴇʟᴘ: <b>Aᴅᴍɪɴ Mᴏᴅs</b>
 
-<b>NOTE:</b>
-This module only works for my OᗯᑎEᖇ⚡
+<b>✿ Nᴏᴛᴇ:</b>
+<b>☞ Tʜɪs Mᴏᴅᴜʟᴇ Oɴʟʏ Wᴏʀᴋs Fᴏʀ Mʏ Aᴅᴍɪɴs</b>
 
-<b>Commands and Usage:</b>
-➾ /logs - <code>to get the rescent errors</code>
-➾ /stats - <code>to get status of files in db.</code>
-➾ /delete - <code>to delete a specific file from db.</code>
-➾ /users - <code>to get list of my users and ids.</code>
-➾ /chats - <code>to get list of the my chats and ids </code>
-➾ /leave  - <code>to leave from a chat.</code>
-➾ /disable  -  <code>do disable a chat.</code>
-➾ /ban  - <code>to ban a user.</code>
-➾ /unban  - <code>to unban a user.</code>
-➾ /channel - <code>to get list of total connected channels</code>
-➾ /broadcast - <code>to broadcast a message to all users</code>"""
-    STATUS_TXT = """✮ 𝚃𝙾𝚃𝙰𝙻 𝙵𝙸𝙻𝙴𝚂: <code>{}</code>
-✮ 𝚃𝙾𝚃𝙰𝙻 𝚄𝚂𝙴𝚁𝚂: <code>{}</code>
-✮ 𝚃𝙾𝚃𝙰𝙻 𝙲𝙷𝙰𝚃𝚂: <code>{}</code>
-✮ 𝚄𝚂𝙴𝙳 𝚂𝚃𝙾𝚁𝙰𝙶𝙴: <code>{}</code> 𝙼𝚒𝙱
-✮ 𝙵𝚁𝙴𝙴 𝚂𝚃𝙾𝚁𝙰𝙶𝙴: <code>{}</code> 𝙼𝚒𝙱"""
+<b>✿ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:</b>
+☞ /logs - <code>ᴛᴏ ɢᴇᴛ ᴛʜᴇ ʀᴇsᴄᴇɴᴛ ᴇʀʀᴏʀs</code>
+☞ /stats - <code>ᴛᴏ ɢᴇᴛ sᴛᴀᴛᴜs ᴏғ ғɪʟᴇs ɪɴ ᴅʙ.</code>
+☞ /users - <code>ᴛᴏ ɢᴇᴛ ʟɪsᴛ ᴏғ ᴍʏ ᴜsᴇʀs ᴀɴᴅ ɪᴅs.</code>
+☞ /chats - <code>ᴛᴏ ɢᴇᴛ ʟɪsᴛ ᴏғ ᴛʜᴇ ᴍʏ ᴄʜᴀᴛs ᴀɴᴅ ɪᴅs </code>
+☞ /leave  - <code>ᴛᴏ ʟᴇᴀᴠᴇ ғʀᴏᴍ ᴀ ᴄʜᴀᴛ.</code>
+☞ /disable  -  <code>ᴅᴏ ᴅɪsᴀʙʟᴇ ᴀ ᴄʜᴀᴛ.</code>
+☞ /ban  - <code>ᴛᴏ ʙᴀɴ ᴀ ᴜsᴇʀ.</code>
+☞ /unban  - <code>ᴛᴏ ᴜɴʙᴀɴ ᴀ ᴜsᴇʀ.</code>
+☞ /channel - <code>ᴛᴏ ɢᴇᴛ ʟɪsᴛ ᴏғ ᴛᴏᴛᴀʟ ᴄᴏɴɴᴇᴄᴛᴇᴅ ᴄʜᴀɴɴᴇʟs</code>
+☞ /broadcast - <code>ᴛᴏ ʙʀᴏᴀᴅᴄᴀsᴛ ᴀ ᴍᴇssᴀɢᴇ ᴛᴏ ᴀʟʟ ᴜsᴇʀs</code>"""
+    STATUS_TXT = """✮ 𝐓𝐎𝐓𝐀𝐋 𝐅𝐈𝐋𝐄𝐒: <code>{}</code>
+✮ 𝐓𝐎𝐓𝐀𝐋 𝐔𝐒𝐄𝐑𝐒: <code>{}</code>
+✮ 𝐓𝐎𝐓𝐀𝐋 𝐂𝐇𝐀𝐓𝐒: <code>{}</code>
+✮ 𝐔𝐒𝐄𝐃 𝐒𝐓𝐎𝐑𝐀𝐆𝐄: <code>{}</code> 𝙼𝚒𝙱
+✮ 𝐅𝐑𝐄𝐄 𝐒𝐓𝐎𝐑𝐀𝐆𝐄: <code>{}</code> 𝙼𝚒𝙱"""
     LOG_TEXT_G = """#𝐍𝐞𝐰𝐆𝐫𝐨𝐮𝐩
 ✮ 𝐆𝐫𝐨𝐮𝐩 ›› {}(<code>{}</code>)
 ✮ 𝐓𝐨𝐭𝐚𝐥 𝐌𝐞𝐦𝐛𝐞𝐫𝐬 ›› <code>{}</code>
@@ -119,12 +116,12 @@ This module only works for my OᗯᑎEᖇ⚡
 ✮ 𝐈𝐃 ›› <code>{}</code>
 ✮ 𝐍𝐚𝐦𝐞 ›› {}
 """
-    CARBON_TXT = """ <b>𝙲𝙰𝚁𝙱𝙾𝙽 𝙼𝙾𝙳𝚄𝙻𝙴</b>
+    CARBON_TXT = """ <b>✿ Cᴀʀʙᴏɴ Mᴏᴅᴜʟᴇ</b>
 
-<b>𝚈𝙾𝚄 𝙲𝙰𝙽 𝙱𝙴𝙰𝚄𝚃𝙸𝙵𝚈 𝚈𝙾𝚄𝚁 𝙲𝙾𝙳𝙴𝚂 𝙱𝚈 𝚄𝚂𝙸𝙽𝙶 𝚃𝙷𝚂 𝙵𝙴𝙰𝚃𝚄𝚁𝙴...</b>
+<b>Yᴏᴜ Cᴀɴ Bᴇᴀᴜᴛɪғʏ Yᴏᴜʀ Cᴏᴅᴇs Bʏ Usɪɴɢ Tʜɪs Fᴇᴀᴛᴜʀᴇ...</b>
 
-<b>𝙲𝙾𝙼𝙼𝙰𝙽𝙳.!</b>
-<b>/carbon ›› 𝚁𝙴𝙿𝙻𝚈 𝚃𝙾 𝙰𝙽𝚈 𝚃𝙴𝚇𝚃 𝙼𝙴𝚂𝚂𝙰𝙶𝙴</b>
+<b>Cᴏᴍᴍᴀɴᴅ.!</b>
+<b>/carbon ›› Rᴇᴘʟʏ Tᴏ Aɴʏ Tᴇxᴛ Mᴇssᴀɢᴇ</b>
 
-<b>𝚆𝙾𝚁𝙺𝚂 𝙾𝙽 𝙱𝙾𝚃𝙷 𝙶𝚁𝙾𝚄𝙿 𝙰𝙽𝙳 𝙿𝙼</b>
-<b>𝙲𝚁𝙴𝙳𝙸𝚃𝚂 ››</b> <a href=https://youtube.com/channel/UCf_dVNrilcT0V2R--HbYpMA>𝙾𝙿𝚄𝚂-𝚃𝙴𝙲𝙷𝚉</a></b>"""
+<b>Wᴏʀᴋɪɴɢ Oɴ Bᴏᴛʜ Gʀᴏᴜᴘs Aɴᴅ Pᴍ</b>
+<b>Cʀᴇᴀᴅɪᴛ ››</b> <a href=https://t.me/KingOf_univers>會؄𝚂𝚄𝚁𝙰𝙹؄會</a></b>"""
