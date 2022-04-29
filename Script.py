@@ -114,12 +114,3 @@ _Cᴏɴᴛᴀᴄᴛ Mᴇ Fᴏʀ Aʙᴏᴛ Sᴏᴜʀᴄᴇ_
 ✮ 𝐈𝐃 ›› <code>{}</code>
 ✮ 𝐍𝐚𝐦𝐞 ›› {}
 """
-    CARBON_TXT = """ <b>✿ Cᴀʀʙᴏɴ Mᴏᴅᴜʟᴇ</b>
-
-<b>Yᴏᴜ Cᴀɴ Bᴇᴀᴜᴛɪғʏ Yᴏᴜʀ Cᴏᴅᴇs Bʏ Usɪɴɢ Tʜɪs Fᴇᴀᴛᴜʀᴇ...</b>
-
-<b>Cᴏᴍᴍᴀɴᴅ.!</b>
-<b>/carbon ›› Rᴇᴘʟʏ Tᴏ Aɴʏ Tᴇxᴛ Mᴇssᴀɢᴇ</b>
-
-<b>Wᴏʀᴋɪɴɢ Oɴ Bᴏᴛʜ Gʀᴏᴜᴘs Aɴᴅ Pᴍ</b>
-<b>Cʀᴇᴀᴅɪᴛ ››</b> <a href=https://t.me/KingOf_univers>會؄𝚂𝚄𝚁𝙰𝙹؄會</a></b>"""
