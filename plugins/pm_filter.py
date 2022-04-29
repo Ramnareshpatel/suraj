@@ -125,7 +125,7 @@ async def advantage_spoll_choker(bot, query):
             k = (movie, files, offset, total_results)
             await auto_filter(bot, query, k)
         else:
-            k = await query.message.edit('ᴛʜɪs ᴍᴏᴠɪᴇ ɪs ɴᴏᴛ ʏᴇᴛ ʀᴇʟᴇᴀsᴇ ᴏʀ ᴀᴅᴅᴇᴅ ᴛᴏ ᴅᴀᴛᴀʙᴀsᴇ 🙂')
+            k = await query.message.edit('ᴛʜɪs ᴍᴏᴠɪᴇ ɪs ɴᴏᴛ ᴀᴅᴅᴇᴅ ᴛᴏ ᴅᴀᴛᴀʙᴀsᴇ 🙂')
             await asyncio.sleep(10)
             await k.delete()
 
@@ -419,7 +419,6 @@ async def cb_handler(client: Client, query: CallbackQuery):
             ],[
             InlineKeyboardButton('💕 ᴄᴏɴɴᴇᴄᴛɪᴏɴs', callback_data='coct'),
             InlineKeyboardButton('🔱 ᴇxᴛʀᴀ ᴍᴏᴅs', callback_data='extra'),
-            InlineKeyboardButton('😎 ᴄᴀʀʙᴏɴ', callback_data='carbon')
             ],[
             InlineKeyboardButton('🏠 ʜᴏᴍᴇ', callback_data='start'),
             InlineKeyboardButton('🔮 sᴛᴀᴛᴜs', callback_data='stats')
@@ -432,7 +431,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "about":
         buttons= [[
-            InlineKeyboardButton('📜 sᴏᴜʀᴄᴇ', url='https://t.me/+Movies4youBackup')
+            InlineKeyboardButton('📜 sᴏᴜʀᴄᴇ', url='https://t.me/Movies4youBackup')
             ],[
             InlineKeyboardButton('🏠 ʜᴏᴍᴇ', callback_data='start'),
             InlineKeyboardButton('🔐 ᴄʟᴏsᴇ', callback_data='close_data')
@@ -679,7 +678,7 @@ async def advantage_spell_chok(msg):
     g_s += await search_gagala(msg.text)
     gs_parsed = []
     if not g_s:
-        k = await msg.reply("I couldn't find any movie in that name.")
+        k = await msg.reply("**I Cᴏᴜʟᴅɴ'ᴛ Fɪɴᴅ Aɴʏ Mᴏᴠɪᴇ Iɴ Tʜᴀᴛ Nᴀᴍᴇ.**")
         await asyncio.sleep(8)
         await k.delete()
         return
@@ -705,7 +704,7 @@ async def advantage_spell_chok(msg):
     movielist += [(re.sub(r'(\-|\(|\)|_)', '', i, flags=re.IGNORECASE)).strip() for i in gs_parsed]
     movielist = list(dict.fromkeys(movielist)) # removing duplicates
     if not movielist:
-        k = await msg.reply("I couldn't find anything related to that. Check your spelling")
+        k = await msg.reply("**I Cᴏᴜʟᴅɴ'ᴛ Fɪɴᴅ Aɴʏᴛʜɪɴɢ Rᴇʟᴀᴛᴇᴅ Tᴏ Tʜᴀᴛ. Cʜᴇᴄᴋ Yᴏᴜʀ Sᴘᴇʟʟɪɴɢ**")
         await asyncio.sleep(8)
         await k.delete()
         return
@@ -717,7 +716,7 @@ async def advantage_spell_chok(msg):
                 )
             ] for k, movie in enumerate(movielist)]
     btn.append([InlineKeyboardButton(text="Close", callback_data=f'spolling#{user}#close_spellcheck')])
-    await msg.reply("ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴍᴏᴠɪᴇ ᴏɴ ᴛʜᴇ ɢɪᴠᴇɴ ʟɪsᴛ ᴀɴᴅ sᴇʟᴇᴄᴛ ʏᴏᴜʀ ᴍᴏᴠɪᴇ.🙂", reply_markup=InlineKeyboardMarkup(btn))
+    await msg.reply("**Cʜᴇᴄᴋ Yᴏᴜʀ Mᴏᴠɪᴇ Iɴ Tʜᴇ Gɪᴠᴇɴ Lɪsᴛ Aɴᴅ Sᴇʟᴇᴄᴛ Yᴏᴜʀ Mᴏᴠɪᴇ.**🙂", reply_markup=InlineKeyboardMarkup(btn))
     
 
 async def manual_filters(client, message, text=False):
