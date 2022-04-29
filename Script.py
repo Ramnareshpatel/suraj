@@ -23,12 +23,12 @@ Mʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>{}</a>, I Cᴀɴ Pʀᴏᴠɪᴅᴇ M�
 
 <b>☞ Aᴀʀᴢᴏᴏ Is A Cʟᴏsᴇ Sᴏᴜʀᴄᴇ Pʀᴏɪᴇᴄᴛ</b>
 <b>☞ Dᴇᴠs</b>
-<b>☞<a href=https://t.me/Movies4youBackup>Mᴏᴠɪᴇs𝟺ʏᴏᴜBᴀᴄᴋᴜᴘ 💕</a></b>
+<b>☞ <a href=https://t.me/Movies4youBackup>Mᴏᴠɪᴇs𝟺ʏᴏᴜBᴀᴄᴋᴜᴘ 💕</a></b>
 _Cᴏɴᴛᴀᴄᴛ Mᴇ Fᴏʀ Aʙᴏᴛ Sᴏᴜʀᴄᴇ_
 ━━━━━━━━━━━━᚜ <a href=https://t.me/KingOf_univers><b>會؄𝚂𝚄𝚁𝙰𝙹؄會</b></a> ᚛━━━━━━━━━━━━"""
     MANUELFILTER_TXT = """<b>✿ Hᴇʟᴘ</b>: <b>Fɪʟᴛᴇʀs</b>  
 
-<b>☞Fɪʟᴛᴇʀ Ts Tʜᴇ Fᴇᴀᴛᴜʀᴇ Wᴇʀᴇ Usᴇʀs Cᴀɴ Sᴇᴛ Aᴜᴛᴏᴍᴀᴛᴇᴅ Rᴇᴘʟɪᴇs Fᴏʀ A Pᴀʀᴛɪᴄᴜʟᴀʀ Kᴇʏᴡᴏʀᴅ Aɴᴅ Aᴀʀᴢᴏᴏ Wɪʟʟ Rᴇsᴘᴏɴᴅ Wʜᴇɴᴇᴠᴇʀ A Kᴇʏᴡᴏʀᴅ Is Fᴏᴜɴᴅ Tʜᴇ Mᴇssᴀɢᴇ</b>
+<b>☞ Fɪʟᴛᴇʀ Ts Tʜᴇ Fᴇᴀᴛᴜʀᴇ Wᴇʀᴇ Usᴇʀs Cᴀɴ Sᴇᴛ Aᴜᴛᴏᴍᴀᴛᴇᴅ Rᴇᴘʟɪᴇs Fᴏʀ A Pᴀʀᴛɪᴄᴜʟᴀʀ Kᴇʏᴡᴏʀᴅ Aɴᴅ Aᴀʀᴢᴏᴏ Wɪʟʟ Rᴇsᴘᴏɴᴅ Wʜᴇɴᴇᴠᴇʀ A Kᴇʏᴡᴏʀᴅ Is Fᴏᴜɴᴅ Tʜᴇ Mᴇssᴀɢᴇ</b>
 
 <b>✿ Nᴏᴛᴇ:</b>
 <b>☞ Aᴀʀᴢᴏᴏ Sʜᴏᴜʟᴅ Hᴀᴠᴇ Aᴅᴍɪɴ Pʀɪᴠɪʟʟᴀɢᴇ.</b>.
@@ -40,7 +40,7 @@ _Cᴏɴᴛᴀᴄᴛ Mᴇ Fᴏʀ Aʙᴏᴛ Sᴏᴜʀᴄᴇ_
 ☞ /filters - <code>ʟɪsᴛ ᴀʟʟ ᴛʜᴇ ꜰɪʟᴛᴇʀs ᴏꜰ ᴀ ᴄʜᴀᴛ</code>
 ☞ /del - <code>ᴅᴇʟᴇᴛᴇ ᴀ sᴘᴇᴄɪꜰɪᴄ ꜰɪʟᴛᴇʀ ɪɴ ᴄʜᴀᴛ</code>
 ☞ /delall - <code>ᴅᴇʟᴇᴛᴇ ᴛʜᴇ ᴡʜᴏʟᴇ ꜰɪʟᴛᴇʀs ɪɴ ᴀ ᴄʜᴀᴛ (ᴄʜᴀᴛ ᴏᴡɴᴇʀ ᴏɴʟʏ)</code>"""
-    BUTTON_TXT = """✿ Hᴇʟᴘ: <b>Bᴜᴛᴛᴏɴs</b>
+    BUTTON_TXT = """<b>✿ Hᴇʟᴘ: Bᴜᴛᴛᴏɴs</b>
 
 <b>☞ Aᴀʀᴢᴏᴏ Sᴜᴘᴘᴏʀᴛs Bᴏᴛʜ Uʀʟ Aɴᴅ Aʟᴇʀᴛ Iɴʟɪɴᴇ Bᴜᴛᴛᴏɴs.</b>
 
@@ -54,14 +54,14 @@ _Cᴏɴᴛᴀᴄᴛ Mᴇ Fᴏʀ Aʙᴏᴛ Sᴏᴜʀᴄᴇ_
 
 <b>✿ Aʟᴇʀᴛ Bᴜᴛᴛᴏɴs:</b>
 <code>[Button Text](buttonalert:This is an alert message)</code>"""
-    AUTOFILTER_TXT = """✿ Hᴇʟᴘ: <b>Aᴜᴛᴏ Fɪʟᴛᴇʀ</b>
+    AUTOFILTER_TXT = """<b>✿ Hᴇʟᴘ: Aᴜᴛᴏ Fɪʟᴛᴇʀ</b>
 
 <b>✿ Nᴏᴛᴇ:</b>
 <b>☞ Mᴀᴋᴇ Mᴇ Tʜᴇ Aᴅᴍɪɴ Oғ Yᴏᴜʀ Cʜᴀɴɴᴇʟ Iғ Iᴛ's Pʀɪᴠᴀᴛᴇ.</b>
 <b>☞ Mᴀᴋᴇ Sᴜʀᴇ Tʜᴀᴛ Yᴏᴜʀ Cʜᴀɴɴᴇʟ Dᴏᴇs Nᴏᴛ Cᴏɴᴛᴀɪɴs Cᴀᴍʀɪᴘs, Pᴏʀɴ Aɴᴅ Fᴀᴋᴇ Fɪʟᴇs.</b>
 <b>☞ Fᴏʀᴡᴀʀᴅ Tʜᴇ Lᴀsᴛ Nᴇssᴀɢᴇ Tᴏ Mᴇ Wɪᴛʜ Qᴜᴏᴛᴇs.</b>
  <b>I'ʟʟ Aᴅᴅ Aʟʟ Tʜᴇ Fɪʟᴇs Iɴ Tʜᴀᴛ Cʜᴀɴɴᴇʟ Tᴏ Mʏ Dʙ.</b>"""
-    CONNECTION_TXT = """✿ Hᴇʟᴘ: <b>Cᴏɴɴᴇᴄᴛɪᴏɴs</b>
+    CONNECTION_TXT = """<b>✿ Hᴇʟᴘ: Cᴏɴɴᴇᴄᴛɪᴏɴs</b>
 
 <b>☞ Usᴇᴅ Tᴏ Cᴏɴɴᴇᴄᴛ Bᴏᴛ Tᴏ Pᴍ Fᴏʀ Mᴀɴᴀɢɪɴɢ Fɪʟᴛᴇʀs.</b> 
 <b>☞ ɪᴛ Hᴇʟᴘs Tᴏ Aᴠᴏɪᴅ Sᴘᴀᴍᴍɪɴɢ Iɴ Gʀᴏᴜᴘs.</b>
@@ -74,7 +74,7 @@ _Cᴏɴᴛᴀᴄᴛ Mᴇ Fᴏʀ Aʙᴏᴛ Sᴏᴜʀᴄᴇ_
 ☞ /connect  - <code>ᴄᴏɴɴᴇᴄᴛ ᴀ ᴘᴀʀᴛɪᴄᴜʟᴀʀ ᴄʜᴀᴛ ᴛᴏ ʏᴏᴜʀ ᴘᴍ</code>
 ☞ /disconnect  - <code>ᴅɪsᴄᴏɴɴᴇᴄᴛ ꜰʀᴏᴍ ᴀ ᴄʜᴀᴛ</code>
 ☞ /connections - <code>ʟɪsᴛ ᴀʟʟ ʏᴏᴜʀ ᴄᴏɴɴᴇᴄᴛɪᴏɴs</code>"""
-    EXTRAMOD_TXT = """✿ Hᴇʟᴘ: <b>Exᴛʀᴀ Mᴏᴅᴜʟᴇs</b>
+    EXTRAMOD_TXT = """<b>✿ Hᴇʟᴘ: Exᴛʀᴀ Mᴏᴅᴜʟᴇs</b>
 
 <b>✿ Nᴏᴛᴇ:</b>
 <b>☞ Tʜᴇsᴇ Aʀᴇ Tʜᴇ Exᴛʀᴀ Fᴇᴀᴛᴜʀᴇs Oғ Aᴀʀᴢᴏᴏ</b>
@@ -84,7 +84,7 @@ _Cᴏɴᴛᴀᴄᴛ Mᴇ Fᴏʀ Aʙᴏᴛ Sᴏᴜʀᴄᴇ_
 ☞ /info  - <code>ɢᴇᴛ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ᴀ ᴜsᴇʀ.</code>
 ☞ /imdb  - <code>ɢᴇᴛ ᴛʜᴇ ꜰɪʟᴍ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ ꜰʀᴏᴍ ɪᴍᴅʙ sᴏᴜʀᴄᴇ.</code>
 ☞ /search  - <code>ɢᴇᴛ ᴛʜᴇ ꜰɪʟᴍ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ ꜰʀᴏᴍ ᴠᴀʀɪᴏᴜs sᴏᴜʀᴄᴇs.</code>"""
-    ADMIN_TXT = """✿ Hᴇʟᴘ: <b>Aᴅᴍɪɴ Mᴏᴅs</b>
+    ADMIN_TXT = """<b>✿ Hᴇʟᴘ: Aᴅᴍɪɴ Mᴏᴅs</b>
 
 <b>✿ Nᴏᴛᴇ:</b>
 <b>☞ Tʜɪs Mᴏᴅᴜʟᴇ Oɴʟʏ Wᴏʀᴋs Fᴏʀ Mʏ Aᴅᴍɪɴs</b>
