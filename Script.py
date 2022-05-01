@@ -99,7 +99,7 @@ _Cᴏɴᴛᴀᴄᴛ Mᴇ Fᴏʀ Aʙᴏᴛ Sᴏᴜʀᴄᴇ_
 ☞ /ban  - <code>ᴛᴏ ʙᴀɴ ᴀ ᴜsᴇʀ.</code>
 ☞ /unban  - <code>ᴛᴏ ᴜɴʙᴀɴ ᴀ ᴜsᴇʀ.</code>
 ☞ /channel - <code>ᴛᴏ ɢᴇᴛ ʟɪsᴛ ᴏғ ᴛᴏᴛᴀʟ ᴄᴏɴɴᴇᴄᴛᴇᴅ ᴄʜᴀɴɴᴇʟs</code>
-☞ /broadcast - <code>ᴛᴏ ʙʀᴏᴀᴅᴄᴀsᴛ ᴀ ᴍᴇssᴀɢᴇ ᴛᴏ ᴀʟʟ ᴜsᴇʀs</code>""
+☞ /broadcast - <code>ᴛᴏ ʙʀᴏᴀᴅᴄᴀsᴛ ᴀ ᴍᴇssᴀɢᴇ ᴛᴏ ᴀʟʟ ᴜsᴇʀs</code>"""
     STATUS_TXT = """✮ 𝐓𝐎𝐓𝐀𝐋 𝐅𝐈𝐋𝐄𝐒: <code>{}</code>
 ✮ 𝐓𝐎𝐓𝐀𝐋 𝐔𝐒𝐄𝐑𝐒: <code>{}</code>
 ✮ 𝐓𝐎𝐓𝐀𝐋 𝐂𝐇𝐀𝐓𝐒: <code>{}</code>
