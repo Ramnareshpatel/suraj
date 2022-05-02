@@ -3,8 +3,8 @@ class script(object):
 Mʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>{}</a>, I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇs, Jᴜsᴛ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ Aɴᴅ Sᴇᴇ Mʏ Pᴏᴡᴇʀ.😀
 
 Mᴀɪɴᴛᴀɪɴᴇᴅ Bʏ <a href=https://t.me/KingOf_univers>會؄𝚂𝚄𝚁𝙰𝙹؄會</a></b>""" 
-    HELP_TXT = """Hᴇʏ {}
-<b>Hᴇʀᴇ Is Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
+    HELP_TXT = """<b>Hᴇʏ {}</b>
+<b>✿ Hᴇʀᴇ Is Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
     ABOUT_TXT = """<b>❍ Mʏ Nᴀᴍᴇ: {}
 ❍ Cʀᴇᴀᴛᴇʀ: <a href=https://t.me/KingOf_univers>會؄𝚂𝚄𝚁𝙰𝙹؄會</a>
 ❍ Lɪʙʀᴀʀʏ: Pʀᴏɢʀᴀᴍ
@@ -102,11 +102,11 @@ _Cᴏɴᴛᴀᴄᴛ Mᴇ Fᴏʀ Aʙᴏᴛ Sᴏᴜʀᴄᴇ_
 ☞ /unban  - <code>ᴛᴏ ᴜɴʙᴀɴ ᴀ ᴜsᴇʀ.</code>
 ☞ /channel - <code>ᴛᴏ ɢᴇᴛ ʟɪsᴛ ᴏғ ᴛᴏᴛᴀʟ ᴄᴏɴɴᴇᴄᴛᴇᴅ ᴄʜᴀɴɴᴇʟs</code>
 ☞ /broadcast - <code>ᴛᴏ ʙʀᴏᴀᴅᴄᴀsᴛ ᴀ ᴍᴇssᴀɢᴇ ᴛᴏ ᴀʟʟ ᴜsᴇʀs</code>"""
-    STATUS_TXT = """✮ 𝐓𝐎𝐓𝐀𝐋 𝐅𝐈𝐋𝐄𝐒: <code>{}</code>
-✮ 𝐓𝐎𝐓𝐀𝐋 𝐔𝐒𝐄𝐑𝐒: <code>{}</code>
-✮ 𝐓𝐎𝐓𝐀𝐋 𝐂𝐇𝐀𝐓𝐒: <code>{}</code>
-✮ 𝐔𝐒𝐄𝐃 𝐒𝐓𝐎𝐑𝐀𝐆𝐄: <code>{}</code> 𝙼𝚒𝙱
-✮ 𝐅𝐑𝐄𝐄 𝐒𝐓𝐎𝐑𝐀𝐆𝐄: <code>{}</code> 𝙼𝚒𝙱"""
+    STATUS_TXT = """<b>✮ Tᴏᴛᴀʟ Fɪʟᴇs:</b> <b>{}</b>
+<b>✮ Tᴏᴛᴀʟ Usᴇʀs:</b> <b>{}</b>
+<b>✮ Tᴏᴛᴀʟ Cʜᴀᴛs:</b> <b>{}</b>
+<b>✮ Usᴇᴅ Sᴛᴏʀᴀɢᴇ:</b> <b>{} Mɪʙ</b>
+<b>✮ Fʀᴇᴇ Sᴛᴏʀᴀɢᴇ:</b> <b>{} Mɪʙ</b>"""
     LOG_TEXT_G = """#𝐍𝐞𝐰𝐆𝐫𝐨𝐮𝐩
 ✮ 𝐆𝐫𝐨𝐮𝐩 ›› {}(<code>{}</code>)
 ✮ 𝐓𝐨𝐭𝐚𝐥 𝐌𝐞𝐦𝐛𝐞𝐫𝐬 ›› <code>{}</code>
