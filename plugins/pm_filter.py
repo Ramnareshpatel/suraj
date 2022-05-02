@@ -146,11 +146,11 @@ async def cb_handler(client: Client, query: CallbackQuery):
                     chat = await client.get_chat(grpid)
                     title = chat.title
                 except:
-                    await query.message.edit_text("Make sure I'm present in your group!!", quote=True)
+                    await query.message.edit_text("ᴍᴀᴋᴇ sᴜʀᴇ ɪ'ᴍ ᴘʀᴇsᴇɴᴛ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ!!", quote=True)
                     return
             else:
                 await query.message.edit_text(
-                    "I'm not connected to any groups!\nCheck /connections or connect to any groups",
+                    "ɪ'ᴍ ɴᴏᴛ ᴄᴏɴɴᴇᴄᴛᴇᴅ ᴛᴏ ᴀɴʏ ɢʀᴏᴜᴘs!\nᴄʜᴇᴄᴋ /connections ᴏʀ ᴄᴏɴɴᴇᴄᴛ ᴛᴏ ᴀɴʏ ɢʀᴏᴜᴘs",
                     quote=True
                 )
                 return
@@ -166,7 +166,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         if (st.status == "creator") or (str(userid) in ADMINS):    
             await del_all(query.message, grp_id, title)
         else:
-            await query.answer("You need to be Group Owner or an Auth User to do that!",show_alert=True)
+            await query.answer("ʏᴏᴜ ɴᴇᴇᴅ ᴛᴏ ʙᴇ ɢʀᴏᴜᴘ ᴏᴡɴᴇʀ ᴏʀ ᴀɴ ᴀᴜᴛʜ ᴜsᴇʀ ᴛᴏ ᴅᴏ ᴛʜᴀᴛ!",show_alert=True)
 
     elif query.data == "delallcancel":
         userid = query.from_user.id
@@ -186,7 +186,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 except:
                     pass
             else:
-                await query.answer("Thats not for you!!",show_alert=True)
+                await query.answer("ᴛʜᴀᴛs ɴᴏᴛ ꜰᴏʀ ʏᴏᴜ!!",show_alert=True)
 
 
     elif "groupcb" in query.data:
@@ -238,7 +238,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 parse_mode="md"
             )
         else:
-            await query.message.edit_text('Some error occured!!', parse_mode="md")
+            await query.message.edit_text('sᴏᴍᴇ ᴇʀʀᴏʀ ᴏᴄᴄᴜʀᴇᴅ!!', parse_mode="md")
         return
 
     elif "disconnect" in query.data:
@@ -357,9 +357,9 @@ async def cb_handler(client: Client, query: CallbackQuery):
                     file_id=file_id,
                     caption=f_caption
                     )
-                await query.answer('Check PM, I have sent files in pm',show_alert = True)
+                await query.answer('ᴄʜᴇᴄᴋ ᴘᴍ, ɪ ʜᴀᴠᴇ sᴇɴᴛ ꜰɪʟᴇs ɪɴ ᴘᴍ',show_alert = True)
         except UserIsBlocked:
-            await query.answer('Unblock the bot mahn !',show_alert = True)
+            await query.answer('ᴜɴʙʟᴏᴄᴋ ᴛʜᴇ ʙᴏᴛ ᴍᴀʜɴ !',show_alert = True)
         except PeerIdInvalid:
             await query.answer(url=f"https://t.me/{temp.U_NAME}?start={file_id}")
         except Exception as e:
